@@ -1,3 +1,3 @@
 # trade-bot
 
-##Coin Trade - bot
+## Coin Trade - bot
